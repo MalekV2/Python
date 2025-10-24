@@ -1,4 +1,4 @@
-# Auteurs : Houhou Abdel-malek Sottile Lorenzo
+# Auteurs : Malek
 #
 # TP : TP3
 #
@@ -243,4 +243,5 @@ with open('fichier.csv','w+') as filecsv :
 
 if __name__ == '__main__':
     import doctest
+
     doctest.testmod(verbose=True)
